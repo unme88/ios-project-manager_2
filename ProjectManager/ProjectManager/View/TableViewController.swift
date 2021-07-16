@@ -1,12 +1,12 @@
 //
-//  ProjectManager - ViewController.swift
+//  ProjectManager - TableViewController.swift
 //  Created by yagom. 
 //  Copyright © yagom. All rights reserved.
 // 
 
 import UIKit
 
-class ViewController: UIViewController {
+class TableViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
